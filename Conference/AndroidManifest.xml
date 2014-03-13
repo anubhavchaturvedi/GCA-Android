@@ -48,7 +48,7 @@
         <activity android:name="org.g_node.location.LocationMarkers"></activity>
           <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="API_KEY" />
+            android:value="AIzaSyA8btoI7EQ_Lu31Npcm0bbUQaP-YOx1rKo" />
           <activity android:name="org.g_node.schedule.ScheduleMainActivity"></activity>
           <activity android:name="org.g_node.schedule.ContentExtended"></activity>
           <activity android:name="org.g_node.abstracts.AbstractActivity"></activity>
